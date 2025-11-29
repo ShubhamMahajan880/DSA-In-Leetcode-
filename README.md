@@ -1,4 +1,4 @@
-<img width="997" height="971" alt="image" src="https://github.com/user-attachments/assets/628e7ba9-09cf-42a3-ab93-04b103870931" /># DSA Solving – LeetCode & GFG
+# DSA Solving – LeetCode & GFG
 
 This repository is a curated collection of problems I’ve solved on **LeetCode** and **GeeksforGeeks**, focused on strengthening Data Structures and Algorithms (DSA) and improving my problem-solving and interview preparation.  
 Each solution is clean, optimized, and documented to help build strong fundamentals.
@@ -56,9 +56,10 @@ This repository helps me recognize patterns, revise approaches, and build confid
 
 ### 🤝 Github Contributions and Commits
 
-<img width="1052" height="723" alt="Screenshot 2025-11-24 230952" src="https://github.com/user-attachments/assets/23b24b5d-9230-4bd8-9a43-8b7e69f4aca5" />
+<img width="1920" height="1080" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/472e33d4-22f1-434f-bf29-ca91bf5ccf01" />
 
-<img width="1733" height="629" alt="Screenshot 2025-10-24 134052" src="https://github.com/user-attachments/assets/e7e8fd8b-50c6-4215-a5b5-b3ee33ed248b" />
+<img width="1122" height="787" alt="Screenshot 2025-11-24 174506" src="https://github.com/user-attachments/assets/b01b85b2-1089-4575-89e9-376289540177" />
+
 
 <br/><br/>
 
